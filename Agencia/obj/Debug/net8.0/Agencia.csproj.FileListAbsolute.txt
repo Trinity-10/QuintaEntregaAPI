@@ -1,0 +1,7 @@
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.csproj.AssemblyReference.cache
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.AssemblyInfoInputs.cache
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.AssemblyInfo.cs
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.csproj.CoreCompileInputs.cache
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.MvcApplicationPartsAssemblyInfo.cs
+C:\Desenvolvimentos\quintaentrega\Api\Agencia\Agencia\obj\Debug\net8.0\Agencia.MvcApplicationPartsAssemblyInfo.cache
